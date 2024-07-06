@@ -1,5 +1,5 @@
 beautifulsoup4==4.6.3
-certifi==2023.7.22
+certifi==2024.7.4
 chardet==3.0.4
 dj-config-url==0.1.1
 Django==3.2.25
